@@ -9,7 +9,7 @@ export const erc20Tokens = {
     tokenBalance: new BigNumber(0)
   },
   "weth": {
-    tokenContractAddress: '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2',
+    tokenContractAddress: '0xd0a1e359811322d97991e03f863a0c30c2cf029c',
     tockeDescriptionUrl: 'WETH',
     tockeDescription: 'WETH',
     tokenDecimals: 18,
@@ -31,21 +31,21 @@ export const erc20Tokens = {
   },
   // eth/dai lp
   "dai": {
-    tokenContractAddress: '0x6B175474E89094C44Da98b954EedeAC495271d0F',
+    tokenContractAddress: '0x1191084797C0d07520374caf345C153b9b2BF1FC',
     tockeDescriptionUrl: 'DAI',
     tockeDescription: 'DAI',
     tokenDecimals: 18,
     tokenBalance: new BigNumber(0)
   },
   "eth/dai lp": {
-    tokenContractAddress: '0xa478c2975ab1ea89e8196811f51a7b7ade33eb11',
+    tokenContractAddress: '0x4d7302011f12f49dfd6a33c2ad12a4fbd83fae2d',
     tockeDescriptionUrl: 'LP',
     tockeDescription: 'LP',
     tokenDecimals: 18,
     tokenBalance: new BigNumber(0)
   },
   "iETH/DAI": {
-    tokenContractAddress: '0x19d994471D61d36FE367928Cc58102a376089D1f',
+    tokenContractAddress: '0x248CD5f844A013F7Fca9F3E13c81aE8eD23fC973',
     tockeDescriptionUrl: 'LP',
     tockeDescription: 'LP',
     tokenDecimals: 18,
