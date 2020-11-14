@@ -53,21 +53,21 @@ export const erc20Tokens = {
   },
   // eth/usdc lp
   "usdc": {
-    tokenContractAddress: '0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48',
+    tokenContractAddress: '0xd76bb6fdd24aA5f85ef614Ab3008190cB279953F',
     tockeDescriptionUrl: 'USDC',
     tockeDescription: 'USDC',
-    tokenDecimals: 6,
+    tokenDecimals: 18,
     tokenBalance: new BigNumber(0)
   },
   "eth/usdc lp": {
-    tokenContractAddress: '0xB4e16d0168e52d35CaCD2c6185b44281Ec28C9Dc',
+    tokenContractAddress: '0x1238773aa48644747acdba224732e0c2ecac09e7',
     tockeDescriptionUrl: 'LP',
     tockeDescription: 'LP',
     tokenDecimals: 18,
     tokenBalance: new BigNumber(0)
   },
   "iETH/USDC": {
-    tokenContractAddress: '0x68A23248000d5d4C943EE685989998c1B19bD74E',
+    tokenContractAddress: '0x499164394eDda8CF59dE497BA3788842A2e0A8c1',
     tockeDescriptionUrl: 'LP',
     tockeDescription: 'LP',
     tokenDecimals: 18,
